@@ -13,7 +13,7 @@ How to use:
 2. Update _ViewStart.cshtml to:  
   `Layout = Request.Headers["pageonly"] == "true" ? null : "~/Views/Shared/_Layout.cshtml";`
 
-3. Ajax Navigation is Ready!
+3. Set main html element id to `MainContent`
 
 <br/>
 <br/>

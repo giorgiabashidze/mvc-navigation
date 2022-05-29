@@ -26,3 +26,5 @@ Keep in mind:
 
 4. Just testing some git stuff
 5. Another changed stuff _-+>
+6. adding 6th commend
+7. adding 7th line

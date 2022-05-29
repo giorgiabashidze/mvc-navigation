@@ -22,3 +22,6 @@ How to use:
 Keep in mind:
 -------------
 * Be careful using `$(document).on(selector, ...);` If you are using it, links will be binded multiple times, you must use `$(selector).on(...);` or `$(document).off(selector);` before binding event
+
+
+4. Just testing some git stuff
